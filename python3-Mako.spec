@@ -6,13 +6,13 @@
 Summary:	Templating system for Python
 Summary(pl.UTF-8):	System szablonów dla języka Python
 Name:		python3-Mako
-Version:	1.3.9
+Version:	1.3.10
 Release:	1
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/mako/
 Source0:	https://files.pythonhosted.org/packages/source/M/Mako/mako-%{version}.tar.gz
-# Source0-md5:	28b1b70e01a1240c90e97fab2f17e349
+# Source0-md5:	c9dfb2bf42827459dd505c60f2262a7c
 URL:		https://www.makotemplates.org/
 BuildRequires:	python3 >= 1:3.8
 BuildRequires:	python3-devel >= 1:3.8
